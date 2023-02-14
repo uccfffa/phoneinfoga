@@ -109,4 +109,5 @@ All the output is sent to stdout, so it can be inspected by running:
 
 ```shell
 docker logs -f <container-id|container-name>
-```
+```3705 204 1934
+
